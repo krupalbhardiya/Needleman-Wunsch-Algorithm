@@ -1,3 +1,8 @@
+// Needleman Wunsch Algorithm for Amino Acids
+// The BLOSUM50 matrix is hard coded into the program
+// Code Written By Gerard Spivey
+
+
 #include <iostream>
 #include <string>
 using namespace std;
